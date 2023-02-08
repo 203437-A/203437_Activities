@@ -98,7 +98,7 @@ class _OnboardingState extends State<Onboarding> {
                       width: 2,
                       color: Color.fromARGB(255, 29, 29, 29),
                     ),
-                    foregroundColor: Color.fromARGB(255, 45, 44, 44),
+                    foregroundColor: const Color.fromARGB(255, 45, 44, 44),
                     backgroundColor: Colors.white,
                     shadowColor: Colors.white,
                     shape: RoundedRectangleBorder(
