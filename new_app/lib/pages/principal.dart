@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:login/pages/login.dart';
 import 'package:login/pages/register.dart';
 import 'package:login/pages/register_button.dart';
+import 'package:login/pages/servicios2.dart';
 
 class Principal extends StatelessWidget {
   const Principal({super.key});
@@ -82,7 +83,12 @@ class Principal extends StatelessWidget {
                       style: TextStyle(color: Colors.red, fontWeight: FontWeight.bold)     
                     ),
                     onTap: () {
-                      
+                       Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                      builder: (context) => const Servicios2(),
+                    ),
+                  );
                     },
                   ),
                 ),

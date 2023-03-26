@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "140956560144",
+    "project_id": "flutter-tempo",
+    "storage_bucket": "flutter-tempo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140956560144:android:8f37322bad3e9193b41395",
+        "android_client_info": {
+          "package_name": "com.angelherrera.app_tempo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140956560144-5t8lsagelrvfahf7j6bpd1o9kbcc6gpg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.angelherrera.app_tempo",
+            "certificate_hash": "2d169349637db9bb9ee4060f94e14186a015e1ed"
+          }
+        },
+        {
+          "client_id": "140956560144-36nlgjubugs5k3od7p1jv037iiljdmdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqKDCFlFgANfQKGrEjhva5H6Hhhej46sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140956560144-36nlgjubugs5k3od7p1jv037iiljdmdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
